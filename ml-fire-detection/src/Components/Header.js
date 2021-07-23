@@ -10,6 +10,7 @@ class Header extends Component {
     const github = this.props.data.github;
     const name = this.props.data.name;
     const description = this.props.data.description;
+    const image ="";
 
     return (
       <header id="home">
